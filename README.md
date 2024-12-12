@@ -5,8 +5,8 @@ Data Scientist, Decision Scientist, and Sports Analytics Writer
 I love data science and deriving analysis insights. Watch and analyze ice hockey for fun. 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinj-lee/)
-[![Medium Badge](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@thinkingjustin)
-[![Streamlit Badge](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/justinjjlee)
+[![Medium Badge](https://img.shields.io/badge/Medium-Read-green?logo=Medium)](https://medium.com/@thinkingjustin)
+[![Streamlit Badge](https://img.shields.io/badge/Streamlit-Explore-FF4B4B?style=flat&logo=streamlit&logoColor=white/)](https://share.streamlit.io/user/justinjjlee)
 
 ## Project Highlights
 Sports Analytics - National Hockey League (NHL) Ice Hockey
