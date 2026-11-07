@@ -1,12 +1,12 @@
 # Hi there, I'm JJ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-Data Scientist, Decision Scientist, and Sports Analytics Writer
+I'm JJ — data scientist by day, and hockey enthusiast all day.
 
-I love data science and deriving actionable insights from data. I enjoy watching and analyzing ice hockey for fun. 
+I love data science and deriving actionable insights from data while building something cool. I enjoy watching and analyzing ice hockey. 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinj-lee/)
-[![Medium Badge](https://img.shields.io/badge/Medium-Read-green?logo=Medium)](https://medium.com/@thinkingjustin)
-[![Streamlit Badge](https://img.shields.io/badge/Streamlit-Explore-FF4B4B?style=flat&logo=streamlit&logoColor=white/)](https://share.streamlit.io/user/justinjjlee)
+[![Substack Badge](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://substack.com/@rinklytics)
+[![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?logo=huggingface&logoColor=000)](https://huggingface.co/jjerlee)
 
 ## Project Highlights
 Sports Analytics - National Hockey League (NHL) Ice Hockey
